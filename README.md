@@ -25,4 +25,4 @@ If you like my work, give it a ⭐ and share it with your friends!
 
 [![Eclipse](https://custom-icon-badges.demolab.com/badge/-Eclipse-purple?style=for-the-badge&logo=eclipse&logoColor=white)](https://eclipseide.org/)
 [![Java](https://custom-icon-badges.demolab.com/badge/-Java-orange?style=for-the-badge&logo=Java&logoColor=white)](https://www.java.com/en/)
-[![Python](https://custom-icon-badges.demolab.com/badge/-Python-green?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
+[![Python](https://custom-icon-badges.demolab.com/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
